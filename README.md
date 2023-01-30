@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un ejemplo del modulo 2
+este es un ejemplo de como clonar un repositorio desde github hacia mi escritorio local
